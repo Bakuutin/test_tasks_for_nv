@@ -1,0 +1,7 @@
+.venv
+.log
+.idea
+*.pyc
+__pycache__
+local.py
+.cache

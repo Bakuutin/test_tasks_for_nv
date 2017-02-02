@@ -1,0 +1,8 @@
+# DJANGO
+Django ~= 1.10.5
+psycopg2 ~= 2.6.2
+requests ~= 2.11.1
+
+# DEBUG
+bpython ~= 0.16
+ipdb ~= 0.10.1
